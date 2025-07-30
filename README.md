@@ -10,9 +10,8 @@ The Employee Biography System simulates a knowledge-sharing platform used within
 - Validate required fields such as name, email, and phone number
 - View and search biographies
 
-This software was built with clean object-oriented design, following UML diagrams, and applying the **Command Design Pattern**. It also includes **Object Constraint Language (OCL)**-style validation and **JUnit** unit testing.
+This software was built with clean object-oriented design, following **UML diagrams**, and applying the **Command Design Pattern**. It also includes manual and **JUnit** unit testing.
 
----
 
 ## 🎯 Key Features
 
@@ -22,9 +21,8 @@ This software was built with clean object-oriented design, following UML diagram
 - 🧪 **Automated unit tests** using JUnit
 - 📝 **Manual test case documentation** for validating edge cases
 - 💻 **Command-line interface** (CLI) for interaction
-- 🧠 **Designed for knowledge-based systems** used in enterprise environments
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -34,14 +32,14 @@ This software was built with clean object-oriented design, following UML diagram
 - **Object Constraint Language (OCL)** - implemented through Java logic
 - **UML Tools** for modeling
 
----
+
 
 ## 🧪 Testing
 - Unit testing is done using JUnit 5
 - Manual test cases are documented to test field validation (name, email, phone)
 - Test case format includes: Test ID, Input, Expected Output, Actual Output, Result (Pass/Fail)
 
----
+
 
 ## Case Study: Hill & Knowlton (H&K) Looks for a New Knowledge Management System.
 
